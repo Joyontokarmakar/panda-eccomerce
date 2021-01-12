@@ -1,0 +1,18 @@
+.panda-card-footer{
+    border: 0;
+    background-color: #fff;
+}
+
+.panda-card{
+    border: 0;
+}
+
+.categories img{
+    height: 100px;
+}
+
+.panda-carousel .carousel-item,
+.subscribe-bg{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
